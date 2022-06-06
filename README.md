@@ -1,7 +1,5 @@
 # 💫About Me :
-I'm currently working on the Airline Megapack
-I'm currently learning Python, Javascript and going outside
-Ask me about cryptocurrency, I am a geek :)
+My name is Thomas, I am 19 years old and live in The Netherlands :)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snythomas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomassnijder) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@papernecklace) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/billoverbeck99) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/papernecklace) 
